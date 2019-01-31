@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+}
+.cd {
+    border: dashed blue 1px;
+    margin: 0 auto;
+    background-color: bisque;
+    width: 302px;
+    padding: 18px;
+    -webkit-box-shadow: 0px 4px 5px 0px rgba(0, 0, 0, 0.15);
+    -moz-box-shadow: 0px 4px 5px 0px rgba(0, 0, 0, 0.15);
+    box-shadow: 0px 4px 5px 0px rgba(0, 0, 0, 0.15);
+}
+.cdita {
+    font-size: 2em;
+     border: solid  2px #ccc;
+    font-weight: bolder;
+    margin: 0;
+    padding: 5px 0 12px 0;
+}
+.cdimg {
+    width: 600px;
+    height: auto;
+    margin: 0 0 18px 0;
+    border: dashed blue 1px ;
+}
+
+.dls {
+    border: solid  2px #ccc;
+    padding: 2px;
+}
+
+
+.dlssec {
+    list-style: none;
+}
+
+.dlscd {
+  text-align: justify;
+    font-size: 1em;
+    padding: 0 0 8px 0;
+}
+
+.dlsita {
+    font-style: italic;
+}
+
+.dlsbo {
+    font-weight: bolder;
+    font-style: normal;
+}
